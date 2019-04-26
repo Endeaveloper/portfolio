@@ -1,34 +1,31 @@
 ---
 
 type: "post"
-title: "The Secret to Sincere Friends? Be Yourself."
-author: "Jane Doe"
-category: "lifestyle"
-date: "2018-01-02"
+title: "나의 Working-style에 관한 고찰"
+author: "William"
+category: "mystyle"
+date: "2019-05-02"
 slug: "/be-yourself"
 postImage: "./img/friends.jpg"
-metaDescription: "Building friendships as an adult is really, really hard. Our advice? Just be yourself, you'll get there."
+metaDescription: "Building friendships as an adult is really, really hard. My advice? Just be yourself, I'll be there."
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id varius velit. Nullam convallis finibus nisl nec fringilla. Morbi venenatis quam id luctus varius. Mauris quis eros in turpis blandit dapibus. Donec vestibulum cursus tincidunt. Proin laoreet diam ante, at convallis tellus gravida et. Fusce ac varius nulla. Curabitur eget elit aliquam, porta urna at, lacinia velit.
+'최강의 팀웍'
+
+저는 개발자가 아닌 지원팀으로 IT회사를 입사하게 되었습니다. 아무것도 하지 않아도 개발팀보다 아래에 있다는 지탄을 받았고
+개발자들의 방패막이 일뿐이라는 의식이 팀내에 팽배해져 있었습니다. 하지만 제가 바라본 동료들은 최고의 동료들 이었습니다.
+저는 '지원팀만의 고유한 업무'가 있으며, 또한 그 일을 충실히 수행하였을 때 회사의 발전에 기여한다는 것을 깨우쳐 주고 싶었고 현재의 포지션에 만족하여 행동하지 않으면 변화할 수 없다고 생각 하였습니다. 포기 하기전에 행동으로 부딪혀 보고 싶었습니다. 그래서 주간 회의시간에 코드리뷰를 추진하게 되었고, 코드리뷰 실시 후 서로의 지식을 공유하게 되었으며 회의시간 뿐만 아니라 업무시간에도 더욱 원활한 의사소통이 가능하게 되었습니다. 이러한 결과는 개인의 실력이 서로 쌓여가는 것뿐만 아니라 업무 진행도 신속하고 깔끔하게 처리 되었으며, 팀내의 부정적인 의식을 걷어내고 '할 수 있다'는 자신감과 '우리팀'이라는 소속감을 동시에 얻게 되었습니다. 
 
 ![Alt Text](./img/friends.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla et erat at lorem convallis pulvinar. Vivamus ac dui neque. Etiam non venenatis eros. Nulla tincidunt vulputate lectus, non placerat nisl viverra id. Donec ac dapibus mi, a auctor urna. Sed elit neque, accumsan in felis eget, varius hendrerit nisl. Quisque urna sem, posuere sit amet porta sit amet, fringilla a quam. Ut aliquet maximus ligula, vitae fermentum nunc rhoncus non. Nullam nec augue sapien. Nulla sed vulputate orci. Vivamus ipsum ipsum, viverra quis tincidunt sed, consectetur ut erat.
+'팀을 위한 독종'
 
-Vestibulum vitae neque a velit efficitur tempor eget eu urna. Praesent et purus sollicitudin, pretium dolor non, laoreet lectus. Donec nisi sem, laoreet quis pulvinar eu, eleifend ac dui. Integer vehicula non turpis a vestibulum. Nulla facilisi. Donec lobortis, ante vitae maximus consectetur, odio augue tempor mi, at vehicula purus orci sed sapien. Maecenas cursus massa id orci fermentum laoreet. Duis elementum justo sit amet tellus dignissim tristique.
+솔루션 회사를 재직하며 가장 큰 화두는 '솔루션의 안정화' 였습니다. 초기 솔루션의 불안정으로 인하여 서로의 이해관계에 얽매이게 되었고 늘어나는 것은 성과가 아닌 각 개인의 입장차이에 관한 변명뿐 이었습니다. 고객이 행복을 느끼고 우리 조직이 
+보람을 느끼기 위해 가장 필요한 것은 안정화라고 저는 깨닫게 되었고, 스킬적으로 부족하였지만 저의 '끈질김'이 발휘되어 
+많은 장애를 안고 태어난 솔루션이 안정화를 이루게 되는데 기여하게 되었습니다.
+먼저 엄격한 형상관리를 통하여 추가 및 수정의 누락이 없게끔 프로세스를 건의하였고, 패치 완료시에는 이슈공유와
+이슈를 처리한 코드리뷰를 진행하여 서로의 업무가 공유되게끔 건의하였습니다. 
+이러한 절차는 시간이 걸렸지만 솔루션의 안정화 뿐만 아니라 조직의 안정화에도 기여하게 되었으며 비록 고생은 하였지만
+둘도 없는 동료이자 인생 친구들을 얻게 되었습니다.
 
-Pellentesque elit justo, viverra nec malesuada eu, dictum id urna. Vivamus et purus nunc. Cras sed massa dignissim, egestas orci ac, molestie purus. Aliquam iaculis neque diam, sed vulputate mauris blandit sit amet. Aenean eu ligula in nunc consequat porta. Nunc efficitur sem eget ante venenatis, ac luctus velit venenatis. Quisque cursus ante vel ligula hendrerit, vel condimentum mi pellentesque. Sed ut felis in odio facilisis maximus. Curabitur ut lacus nisl. Sed rutrum ornare elementum. Pellentesque et velit ullamcorper, lobortis urna at, congue massa. Nulla suscipit congue aliquet. Sed urna augue, ullamcorper tempor pharetra eget, mollis a quam. Cras rhoncus sagittis augue vel lacinia.
-
-Maecenas hendrerit semper egestas. Pellentesque at erat ligula. Ut a nisl aliquam, laoreet magna vitae, lacinia tortor. Sed at volutpat velit. Maecenas vitae consectetur elit. Fusce ut augue id sapien facilisis semper ac vel enim. In consequat nulla et nulla tincidunt, ac elementum odio molestie. Cras sed nulla finibus, hendrerit erat vitae, consequat magna. Aliquam id lectus iaculis, faucibus eros at, tempus erat. In iaculis ante sem, sit amet hendrerit dolor mattis elementum. Maecenas quis sapien ut turpis consectetur porta. Maecenas vitae consectetur tortor, vel lobortis ligula.
-
-Praesent eget tellus a augue vulputate vulputate. Phasellus volutpat eros sit amet libero placerat dapibus. Vestibulum hendrerit euismod odio vulputate sodales. Sed vel justo vel turpis rhoncus cursus sed sit amet urna. Suspendisse pellentesque sapien eget nisl commodo maximus. Nulla pharetra magna in ipsum ultricies, eu aliquet ipsum euismod. Etiam nec lectus ac dui blandit maximus. Aenean lobortis pretium ipsum, eget convallis mauris. Ut lobortis condimentum justo a ultricies. Donec accumsan viverra libero, id iaculis dui efficitur sit amet. Cras ut sapien porta, tempus purus in, consectetur nulla. Vivamus efficitur ante non leo euismod cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi ex enim, lobortis non tincidunt a, sodales nec leo. Sed blandit tempor ante quis fringilla. Integer sit amet metus nisl.
-
-Duis elementum, massa ac tincidunt ultricies, ex ligula consectetur enim, quis viverra massa risus quis enim. Duis iaculis tellus at nisi hendrerit, vitae malesuada arcu volutpat. Morbi a elit tincidunt, tincidunt mauris at, convallis erat. Morbi nec ligula tortor. Aenean efficitur scelerisque massa, feugiat tristique massa consectetur a. Nulla lobortis et erat id pretium. Sed nec pharetra libero.
-
-In vel augue enim. Maecenas in magna ac risus egestas imperdiet. Vivamus consequat vel sem vel dapibus. Suspendisse eget dolor metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ornare purus sed erat porttitor ultrices. Praesent maximus quam in mauris pellentesque porta. Vivamus suscipit pulvinar nunc, ut ornare urna laoreet quis. In eu iaculis dolor, tristique faucibus lectus. Nam iaculis lorem quis leo fermentum facilisis. Sed cursus quam ac porttitor ultrices. Suspendisse tincidunt tortor in molestie hendrerit. Ut blandit congue nibh, ut scelerisque leo pharetra at. Proin ornare, magna convallis mattis malesuada, justo enim pretium ex, vel pellentesque ligula ipsum sed mi. Aenean consequat laoreet ex, sed malesuada lectus convallis ut.
-
-Vestibulum non feugiat diam, sit amet convallis nisl. Etiam a nunc eget velit tincidunt rhoncus. Phasellus ut euismod nisi. Morbi erat arcu, viverra ut feugiat sit amet, mollis id enim. Quisque venenatis ultricies odio eu mattis. Fusce vel placerat lacus, fermentum fringilla neque. Nam enim lectus, consequat id augue eget, laoreet pulvinar dolor.
-
-Vivamus a lacus ante. Morbi sed ex est. Nulla tempor risus eu hendrerit efficitur. Sed porta convallis sapien, eu porttitor augue eleifend eget. Suspendisse lorem turpis, elementum non neque tempus, pellentesque laoreet est. Suspendisse rhoncus justo ac scelerisque placerat. Donec ligula mi, luctus in scelerisque eu, lobortis vitae tellus. Aliquam eget tempus augue, egestas hendrerit est. Vivamus egestas nulla nec mi fermentum porta. Integer commodo nibh tristique nulla vehicula, id ultricies neque dictum. Fusce ut egestas diam. Aliquam at dolor efficitur nulla malesuada consequat ac ut ipsum. 

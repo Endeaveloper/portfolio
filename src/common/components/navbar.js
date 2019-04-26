@@ -26,23 +26,23 @@ const SliderMenu = (props) => {
   return (
     <div
       className={
-        "flex flex-column justify-center items-center bg-washed-red fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
+        "flex flex-column justify-center items-center bg-dark-gray fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
       }>
       <Link
         to="/"
-        className={"display ttu tracked dark-gray f3 no-underline menu__item pv5" + extraClasses}
+        className={"display ttu tracked near-white f3 no-underline menu__item pv5" + extraClasses}
       >{props.siteTitle}
       </Link>
       {props.extraLinks.map(navLink => (
         <MultiLink
           to={navLink.to}
-          className={"sans-serif ttu mid-gray f5 no-underline menu__item pv3" + extraClasses}
+          className={"sans-serif ttu near-white f5 no-underline menu__item pv3" + extraClasses}
         >{navLink.name}
         </MultiLink>
       ))}
       <Link
         to="/about"
-        className={"sans-serif ttu mid-gray f5 no-underline menu__item pv3" + extraClasses}
+        className={"sans-serif ttu near-white f5 no-underline menu__item pv3" + extraClasses}
       >About</Link>
     </div>
   )

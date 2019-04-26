@@ -1,10 +1,10 @@
 ---
 
 type: "post"
-title: "Gorgeous Makeup Looks For This Winter"
-author: "Jane Doe"
-category: "makeup"
-date: "2018-01-01"
+title: "새롭게 나는 이런거를 만들어 볼려고해"
+author: "William"
+category: "portfolio"
+date: "2019-05-02"
 slug: "/post"
 postImage: "./img/balloons.jpg"
 metaDescription: "The hottest trends for the coolest season. Check out Tyra product picks and get inspired this holiday season!"

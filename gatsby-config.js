@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/makeup", name: "Makeup"},
-      {to: "/lifestyle", name: "Lifestyle"},
+      {to: "/portfolio", name: "portfolio"},
+      {to: "/mystyle", name: "mystyle"},
       {to: "/blog", name: "blog"},
     ],
-    title: "TYRA",
+    title: "WILLIAM",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
     siteUrl: "https://tyra-starter.netlify.com",
     homepageHeader: "Welcome to Your New Blog",
