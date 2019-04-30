@@ -4,6 +4,7 @@ module.exports = {
       {to: "/portfolio", name: "portfolio"},
       {to: "/mystyle", name: "mystyle"},
       {to: "/blog", name: "blog"},
+      {to: "/github", name: "github"}
     ],
     title: "WILLIAM",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
